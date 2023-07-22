@@ -1,0 +1,50 @@
+#a{
+    color:aquamarine;
+    background:linear-gradient( to right,green,orange,blue,yellow);
+    text-align: center;
+}
+#e{
+    background-image: url(Sheikra.webp);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#b{
+    color:white;
+    background-color:grey;
+    opacity: 0.8;
+}
+#c{
+    color: aqua;
+    font-family:cursive;
+}
+#d{
+    color: ivory;
+    background:linear-gradient( to right,black, grey,white )
+}
+#f{
+    background-image: url(History.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#g{
+    color: blue;
+}
+#h{
+    color:azure;
+    background:linear-gradient( to right,red,aquamarine)
+}
+#i{
+    background-image: url(FP.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#j{
+    color: greenyellow;
+}
+#l{
+    background-image: url(elements-web-design-opt-730x485.jpg);
+    background-size: cover;
+}
+#k{
+    background:linear-gradient( to right,aquamarine,teal,green);
+}
